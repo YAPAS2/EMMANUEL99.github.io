@@ -1,0 +1,142 @@
+# Translation of Plugins - Variation Swatches for WooCommerce - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Variation Swatches for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-20 09:21:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Variation Swatches for WooCommerce - Development (trunk)\n"
+
+#: admin/class-thwvsf-admin-settings-design.php:87
+#: admin/class-thwvsf-admin-settings-design.php:93
+#: admin/class-thwvsf-admin-settings-general.php:80
+#: admin/class-thwvsf-admin-settings-general.php:86
+msgid "Blur"
+msgstr "Flou"
+
+#: admin/class-thwvsf-admin-settings-attributes.php:344
+#: admin/class-thwvsf-admin-settings-attributes.php:426
+#: admin/class-thwvsf-admin-settings-design.php:264
+#: admin/class-thwvsf-admin-settings-design.php:288
+#: admin/class-thwvsf-admin-settings-general.php:131
+#: admin/class-thwvsf-admin-settings-general.php:149
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr "Vos modifications n’ont pas été enregistrées en raison d’une erreur (ou vous n’en avez pas fait !)."
+
+#: admin/class-thwvsf-admin-settings-attributes.php:342
+#: admin/class-thwvsf-admin-settings-design.php:262
+#: admin/class-thwvsf-admin-settings-general.php:147
+msgid "Your changes were saved."
+msgstr "Vos modifications ont été enregistrées."
+
+#: admin/class-thwvsf-admin-settings-design.php:88
+#: admin/class-thwvsf-admin-settings-design.php:94
+#: admin/class-thwvsf-admin-settings-general.php:81
+#: admin/class-thwvsf-admin-settings-general.php:87
+msgid "Blur With Cross"
+msgstr "Flou avec croix"
+
+#: admin/class-thwvsf-admin-settings-design.php:86
+#: admin/class-thwvsf-admin-settings-general.php:79
+msgid "Hide"
+msgstr "Masquer"
+
+#: admin/class-thwvsf-admin.php:544 admin/class-thwvsf-admin.php:549
+msgid "Add new"
+msgstr "Ajouter une nouvelle"
+
+#: admin/class-thwvsf-admin.php:544
+msgid "Add new %s"
+msgstr "Ajouter une nouvelle %s"
+
+#: admin/class-thwvsf-admin.php:536
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+#: admin/class-thwvsf-admin.php:512
+msgid "Select terms"
+msgstr "Sélectionner des termes"
+
+#: admin/class-thwvsf-admin.php:429
+msgid "Label"
+msgstr "Libellé"
+
+#: admin/class-thwvsf-admin-settings-attributes.php:99
+#: admin/class-thwvsf-admin.php:211 admin/class-thwvsf-admin.php:373
+#: admin/class-thwvsf-admin.php:575
+msgid "Image"
+msgstr "Image"
+
+#: admin/class-thwvsf-admin-settings-attributes.php:98
+#: admin/class-thwvsf-admin.php:210 admin/class-thwvsf-admin.php:343
+#: admin/class-thwvsf-admin.php:573
+msgid "Color"
+msgstr "Couleur"
+
+#: admin/class-thwvsf-admin.php:125
+msgid "Premium support"
+msgstr "Support premium"
+
+#: admin/class-thwvsf-admin.php:125
+msgid "Visit premium customer support"
+msgstr "Visiter le support client premium"
+
+#: admin/class-thwvsf-admin.php:124
+msgid "Docs"
+msgstr "Docs"
+
+#: admin/class-thwvsf-admin.php:537
+msgid "Select none"
+msgstr "Ne rien sélectionner"
+
+#: admin/class-thwvsf-admin.php:124
+msgid "View plugin documentation"
+msgstr "Voir la documentation de l’extension"
+
+#: admin/class-thwvsf-admin.php:89
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/class-thwvsf-admin.php:83
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/class-thwvsf-admin.php:76 admin/class-thwvsf-admin.php:236
+msgid "Swatches Options"
+msgstr "Options des échantillons"
+
+#: admin/class-thwvsf-admin.php:75
+msgid "WooCommerce Product Variation Swatches"
+msgstr "WooCommerce Product Variation Swatches"
+
+#: public/class-thwvsf-public.php:703 public/class-thwvsf-public.php:719
+msgid "Choose an option"
+msgstr "Choisir une option"
+
+#: public/class-thwvsf-public.php:316
+msgid "Clear"
+msgstr "Effacer"
+
+#. Author URI of the plugin
+msgid "https://themehigh.com/"
+msgstr "https://themehigh.com/"
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr "ThemeHigh"
+
+#. Description of the plugin
+msgid "Product Variation Swatches for WooCommerce lets you add variation swatches for variable product attributes in your WooCommerce online store."
+msgstr "WooCommerce Variation Swatches vous permet d’ajouter des échantillons de variation pour des attributs de produits variables dans votre boutique en ligne WooCommerce."
+
+#. Plugin URI of the plugin
+msgid "https://themehigh.com/product/woocommerce-product-variation-swatches"
+msgstr "https://themehigh.com/product/woocommerce-product-variation-swatches"
+
+#. Plugin Name of the plugin
+msgid "Product Variation Swatches for Woocommerce"
+msgstr "Product Variation Swatches for Woocommerce"
